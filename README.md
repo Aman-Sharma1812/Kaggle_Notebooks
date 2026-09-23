@@ -70,11 +70,3 @@ The project is organized into the following sections:
 ├── 27. Future Improvements
 │
 └── 28. References
-
-
-
-
-
-
-
-Practical Data Science & Machine Learning projects covering EDA, preprocessing, visualization, feature engineering, ML models, and real-world datasets.
