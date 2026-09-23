@@ -1,7 +1,10 @@
 this is kaggle file and dataset repo
 
-# Professional Kaggle Notebook Archotecture :
+# Professional Kaggle Notebook Architecture :
 
+The project is organized into the following sections:
+
+```text
 📓 PROJECT_NAME.ipynb
 │
 ├── 01. Project Overview
@@ -19,18 +22,18 @@ this is kaggle file and dataset repo
 ├── 07. Data Understanding
 │
 ├── 08. Data Quality Check
-│      ├── Missing Values
-│      ├── Duplicates
-│      ├── Data Types
-│      └── Outliers
+│   ├── Missing Values
+│   ├── Duplicate Records
+│   ├── Data Types
+│   └── Outliers
 │
 ├── 09. Data Cleaning
 │
-├── 10. Exploratory Data Analysis
-│      ├── Univariate
-│      ├── Bivariate
-│      ├── Multivariate
-│      └── Correlation
+├── 10. Exploratory Data Analysis (EDA)
+│   ├── Univariate Analysis
+│   ├── Bivariate Analysis
+│   ├── Multivariate Analysis
+│   └── Correlation Analysis
 │
 ├── 11. Statistical Analysis
 │
@@ -67,10 +70,6 @@ this is kaggle file and dataset repo
 ├── 27. Future Improvements
 │
 └── 28. References
-
-
-
-
 
 
 
