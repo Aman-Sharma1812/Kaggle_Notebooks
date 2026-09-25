@@ -24,11 +24,11 @@ My notebooks mainly focus on:
 
 ## Notebooks
 
-| #  | Project                      | Type           | Algorithm           |
-| -- | ---------------------------- | -------------- | ------------------- |
-| 01 | Telco Customer Churn Analysis| EDA            | Linear Regression   |
-| 02 | Insurance Charges Prediction | Regression     | Lasso Regression    |
-| 03 | Heart Disease Prediction     | Classification | Logistic Regression |
+| #  | Project                      |
+| -- | ---------------------------- |
+| 01 | Telco Customer Churn Analysis|
+| 02 | Insurance Charges Prediction |
+| 03 | Heart Disease Prediction     |
 
 More projects will be added as I continue learning.
 
