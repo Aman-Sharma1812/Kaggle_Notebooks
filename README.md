@@ -29,6 +29,7 @@ My notebooks mainly focus on:
 | 01 | Telco Customer Churn Analysis|
 | 02 | Insurance Charges Prediction |
 | 03 | Heart Disease Prediction     |
+| 04 | creditwise-loan-system       |
 
 More projects will be added as I continue learning.
 
