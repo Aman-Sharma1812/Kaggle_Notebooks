@@ -30,6 +30,7 @@ My notebooks mainly focus on:
 | 02 | Insurance Charges Prediction |
 | 03 | Heart Disease Prediction     |
 | 04 | creditwise-loan-system       |
+| 05 | Estate Predictor             |
 
 More projects will be added as I continue learning.
 
